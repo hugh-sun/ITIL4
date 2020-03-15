@@ -10,3 +10,6 @@ ITIL4想解决什么问题？
 3. 如果ITIL不演进会怎么样？
 
 ![](https://github.com/jiangxianlou/ITIL4/blob/master/Flash%20Card%20for%20ITIL4/%E5%B9%BB%E7%81%AF%E7%89%873.JPG?raw=ture)
+
+[2020-03-15]
+Note: 昨天是pi节，你去吃麦当劳的红豆派了吗？
