@@ -21,15 +21,15 @@ When provisioning services, an organization takes on the role of the service pro
 When receiving services, an organization takes on the role of the service consumer.
 一旦一个组织接受了服务，它就承担了服务消费者的角色。在日常的工作过程中，我们可以把服务消费者分为三类：顾客、用户、赞助者；这三个角色可以独立存在，也可以合并。
   
-  $ 顾客 Customer
+$ 顾客 Customer
   A person who defines the requirements for a service and takes responsibility for the outcomes of service consumption.
   定义服务需求并对服务使用结果负责的人。
   
-  $ 用户 User
+$ 用户 User
   A person who uses services
   使用服务的人。
   
-  $ 赞助者 Sponsor
+$ 赞助者 Sponsor
   A person who authorizes budget for service consumption.
   授权服务消费预算的人。
   
@@ -45,7 +45,7 @@ When receiving services, an organization takes on the role of the service consum
 
 3. 服务供应：服务提供商以服务产品的形式向消费者展示他们的服务供给（service offering），描述了基于一种或多种产品的一种或多种服务。服务供给一般可以分为三类：货品、资源的访问、服务活动。
 
-?[](https://github.com/jiangxianlou/ITIL4/blob/master/Flash%20Card%20for%20ITIL4/Service%20offering.jpg?raw=ture)
+![](https://github.com/jiangxianlou/ITIL4/blob/master/Flash%20Card%20for%20ITIL4/Service%20offering.jpg?raw=ture)
 
 # 四、价值：业务成效、成本和风险
 
