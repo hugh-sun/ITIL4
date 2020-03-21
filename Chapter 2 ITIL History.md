@@ -13,3 +13,7 @@
 ![](https://github.com/jiangxianlou/ITIL4/blob/master/Flash%20Card%20for%20ITIL4/Flash%20Card%20for%20ITIL4.jpg?raw=ture)
 
 在v3的服务战略（service strategy）刊物中，引用了哈佛大学市场营销教授Theodore Levitt的一句话“顾客不是想买一个1/4英寸的钻孔机，而是想要一个1/4英寸的钻孔”。这句话你是如何思考的呢？
+
+# 备注
+
+从2011年开始，ITIL就作为一个单词出现（不在强调是information technology infrastructure library），ITIL就是Best-practice guidance for IT service management.
