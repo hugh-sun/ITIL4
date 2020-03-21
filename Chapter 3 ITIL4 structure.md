@@ -13,7 +13,9 @@ ITIL4整合了ITIL Practitioner的服务管理原则；引入价值链、价值�
 
 # ITIL4的“四+五”框架
 
-四：代表了ITIL4的四个服务管理的管理维度
-五：代表了ITIL4服务价值体系（Service Value System）的五个组件
+ITIL4框架由两个关键的组件够构成：四维模型（FOUR dimension model）和服务价值体系（Service Value System, SVS）。
 
 ![](https://github.com/jiangxianlou/ITIL4/blob/master/Flash%20Card%20for%20ITIL4/%E5%B9%BB%E7%81%AF%E7%89%877.JPG?raw=ture)
+
+四：代表了ITIL4的四个服务管理的管理维度
+五：代表了ITIL4服务价值体系（SVS）的五个组件
