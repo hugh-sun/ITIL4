@@ -1,8 +1,8 @@
-# <center>基本概念</center>
+<center> # 基本概念 </center>
 
 有了高效学习ITIL4的知识以及掌握ITIL4的实践应用，如下的基本概念必须首先掌握。
 
-## 1.价值 'Value'
+## 1. 价值 'Value'
 
 > The percieved benefits, usefulness and importance of something.
 > 可以被感知的收益、有用性、重要性。
@@ -14,7 +14,7 @@
 * 从三个递进的方式思考价值：服务（output）-> 成效（outcome） -> 收益（Benefits）。进而可以对价值可以进行量化。
 
 
-## 2.组织 Organization
+## 2. 组织 Organization
 
 > A person or a group of people that has its own functions with responsibilities, authorities, and relationships to achieve its objectives.
 > 具有职责，权限和关系以实现其目标的功能（Function），可以是个人或一群人。是否具有共同一致的目标是判断组织的重要条件。
@@ -40,7 +40,7 @@
 投资者和股东、政府机构（例如监管机构）和社会团体。
 
 
-## 3.产品和服务 Products and Services
+## 3. 产品和服务 Products and Services
 
 * **服务**：一种通过促进客户想要实现的结果（outcome-based）而实现价值共创（value-cocreat）的手段（A means），而客户无需管理特定的成本和风险。
 
@@ -51,7 +51,7 @@
 ![](https://github.com/jiangxianlou/ITIL4/blob/master/Flash%20Card%20for%20ITIL4/Service%20offering.jpg?raw=ture)
 
 
-## 4.价值：产出、成本和风险
+## 4. 价值：产出、成本和风险
 
 要获得理想的结果（business outcome）需要资源（成本），并且通常与风险相关。 服务提供商帮助他们的消费者实现成果，并为此承担一些相关的风险和成本。 另一方面，服务关系（service relatioship）会带来新的风险和成本，并且在某些情况下，可能会对某些预期的结果产生负面影响，反而对其他方面却有正面影响。
 
