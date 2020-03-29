@@ -5,6 +5,7 @@
 DEFINATION: The percieved benefits, usefulness and importance of something。价值就是可以被感知的收益、有用性、重要性。
 
 ```
+需要特别注意三点：
 
 * 价值受制于干系人的认知（perception）和偏好（preference），是主观的（价值对不同的人来说意味着不同的东西）。
 * 价值是通过提供商和消费者之间的积极合作共同创造。**value** is co-created through an active collaboration between providers and consumers。
