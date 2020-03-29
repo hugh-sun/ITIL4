@@ -22,11 +22,15 @@ DEFINATION：When provisioning services, an organization takes on the role of th
 DEFINATION：When receiving services, an organization takes on the role of the service consumer. 一旦一个组织接受了服务，它就承担了服务消费者的角色。在日常的工作过程中，我们可以把服务消费者分为三类：顾客、用户、赞助者；这三个角色可以独立存在，也可以合并。
 
 ```
-**顾客 Customer**: A person who defines the requirements for a service and takes responsibility for the outcomes of service consumption. 定义服务需求并对服务使用结果负责的人。
+顾客 `Customer`: A person who defines the requirements for a service and takes responsibility for the outcomes of service consumption. 
+定义服务需求并对服务使用结果负责的人。
 
-**用户 User**: A person who uses services。使用服务的人。
+用户 `User`: A person who uses services。
+使用服务的人。
 
-**赞助者 Sponsor**: A person who authorizes budget for service consumption。授权服务消费预算的人。
+赞助者 `Sponsor`: A person who authorizes budget for service consumption。
+授权服务消费预算的人。
+
 ```
  
 * 其他干系人 Other Stakehodlers
