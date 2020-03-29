@@ -9,11 +9,23 @@ ITIL 4 为组织提供了解决新服务管理挑战和利用现代技术潜力�
 
 ITIL4整合了ITIL Practitioner的服务管理原则；引入价值链、价值流、Lean IT、敏捷方法、DevOps等等，帮助客户数字化转型。
 
+
+
+# ITIL可以作为一个服务管理的基础框架
+
+![](https://github.com/jiangxianlou/ITIL4/blob/master/Flash%20Card%20for%20ITIL4/ITIL%E9%9B%86%E6%88%90%E6%A1%86%E6%9E%B6.jpg?raw=ture)
+
+
+
 # ITIL4的“四+五”框架
 
 ITIL4框架由两个关键的组件构成：
 1. 四维模型（FOUR dimension model）
 2. 服务价值体系（Service Value System, SVS）
+
 ![](https://github.com/jiangxianlou/ITIL4/blob/master/Flash%20Card%20for%20ITIL4/%E5%B9%BB%E7%81%AF%E7%89%877.JPG?raw=ture)
+
 四：代表了ITIL4的四个服务管理的管理维度
 五：代表了ITIL4服务价值体系（SVS）的五个组件
+
+
