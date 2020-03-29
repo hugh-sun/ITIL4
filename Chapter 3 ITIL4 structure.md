@@ -19,6 +19,7 @@ ITIL4整合了ITIL Practitioner的服务管理原则；引入价值链、价值�
 # ITIL4一张图总览
 
 我们用一页纸把ITIL4的框架进行描述，如下：
+
 ![](https://github.com/jiangxianlou/ITIL4/blob/master/Flash%20Card%20for%20ITIL4/ITIL4%20overview.jpg?raw=ture)
 
 # ITIL4 最核心的 “四+五” 概念
@@ -30,3 +31,17 @@ ITIL4框架由两个关键的组件构成：
 2. 服务价值体系（Service Value System, SVS），代表了ITIL4服务价值体系（SVS）的五个组件
 
 ![](https://github.com/jiangxianlou/ITIL4/blob/master/Flash%20Card%20for%20ITIL4/%E5%B9%BB%E7%81%AF%E7%89%877.JPG?raw=ture)
+
+
+# PS.大家思考一下什么是System? 理解system对学习和理解ITIL最关重要。
+
+Picture1: Defination of System
+
+![](https://github.com/jiangxianlou/ITIL4/blob/master/Flash%20Card%20for%20ITIL4/system1.jpg?raw=ture)
+
+![](https://github.com/jiangxianlou/ITIL4/blob/master/Flash%20Card%20for%20ITIL4/system2.jpg?raw=ture)
+
+-END-
+
+
+
