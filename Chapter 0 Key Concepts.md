@@ -2,7 +2,7 @@
 
 ## 1. 价值 `Value`
 
-DEFINATION: The percieved benefits, usefulness and importance of something。
+DEFINATION: The perceived benefits, usefulness and importance of something。
 
 价值就是可以被感知的收益、有用性、重要性。
 
